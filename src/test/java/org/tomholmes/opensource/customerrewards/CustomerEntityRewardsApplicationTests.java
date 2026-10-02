@@ -8,7 +8,8 @@ class CustomerEntityRewardsApplicationTests
 {
 
     @Test
-    void contextLoads() {
+    void contextLoads()
+    {
     }
 
 }
