@@ -1,4 +1,4 @@
-package org.tomholmes.opensource.phonebook.customerrewards;
+package org.tomholmes.opensource.customerrewards;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
